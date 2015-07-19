@@ -1,0 +1,22 @@
+1. What is information technology and why is it important? 
+	Information technology is the combination of hardware, software and services that people use to manage, communicate
+	and share information. It affects our society by increasing productivity, and making sound decisions in a business 
+	enviornment.
+
+2.  Define systems analysis and design and the role of a systems analyst. 
+	-Systems analysis and design is a step by step process in developing information systems that effectively use
+	 hardware, software, data processes and people to support the company's business objectives. 
+	
+	-A systems analyst plans, analyzes and implements imformation systems. 
+
+3. Define an information system and describe its components. 
+	-An information system combines information technology, people and data to support business requirements.
+	-There are five key components to an information system and they are: 
+		Hardware
+		Software
+		Data
+		Processes
+		People
+
+4. Explain how to use business profiles and models.
+

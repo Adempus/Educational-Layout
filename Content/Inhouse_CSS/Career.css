@@ -1,0 +1,30 @@
+﻿#topSection {
+    height: 500px;
+    width: auto;
+    color: #464547;
+    text-align: justify;
+    background-color: #eee;
+    padding: 100px 100px 0px 100px;
+    font-family: 'Maven Pro', sans-serif;
+    border-bottom: 1px solid #8ec960;
+    margin-bottom: -20px;
+}
+#topSection > p {
+    font-family: 'Maven Pro', sans-serif;
+    font-weight: 200;
+    font-size:  20px;
+    line-height: 30px;
+    text-align: justify;
+    padding: 0px 50px 0px 50px;
+}
+#careerDescript {
+    height: 100px;
+    width: auto;
+    font-family: 'Maven Pro', sans-serif;
+    font-weight: 200;
+    font-size: 17px;
+    padding: 0px 167px 0px 167px;
+    margin-top: 90px;
+    color: #464547; 
+    line-height: 30px;
+}

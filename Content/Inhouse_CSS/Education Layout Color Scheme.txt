@@ -1,0 +1,34 @@
+Educational Layout Scheme
+
+
+Background:
+White
+HEX: #FFFFFF;
+RGB: rgb(255,255,255)
+
+Text: 
+Dark Gray
+HEX: #464547
+RGB: rgb(70,69,71)
+
+Sign-in Section
+Green
+HEX: #8EC960
+RGB: rgb(142,201,96)
+
+Jumbotron(front page):
+Gray
+HEX: #EEEEEE
+RGB: rgb(238,238,238)
+
+Banners(front page) 
+Dark Gray
+HEX: #464547
+RGB: rgb(70,69,71)
+
+Banner descriptions (front page):
+Light Green
+HEX: #E4F2D8;
+RGB: rgb(228,242,216)
+
+ 

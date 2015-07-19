@@ -1,0 +1,110 @@
+﻿@import "http://fonts.googleapis.com/css?family=Maven+Pro:400,500,700";
+@import url(http://fonts.googleapis.com/css?family=Armata);
+body {
+}
+#divider { padding-bottom: 150px; }
+#sectionContainer {
+    padding-left: -58px;
+    float: left;
+    margin-left: -759px;
+    margin-top: 400px;
+    height: 289px;
+    width: 1348px;
+    color: #464547;
+    background-color: #EEEEEE;
+    position: inherit;
+    font-family: 'Maven Pro', sans-serif;
+    font-size: 16px;
+}
+#description {
+    text-align: justify;
+    position: inherit;
+    padding-top: 27px;
+    font-family: 'Maven Pro', sans-serif;
+    font-size: 19px;
+    line-height: 30px;
+    font-weight: 400;
+    color: #464547;
+    padding-right: 74px;
+    float: right;
+    width: 1257px;
+}
+#imgBorder {
+    position: inherit;
+    border-right: 5px solid #EEEEEE;
+    border-bottom: 5px solid #EEEEEE;
+    border-bottom-width: 11px;
+    width: 940px;
+    -webkit-box-shadow: inset -2px -1px 20px -5px rgba(50, 50, 50, 0.25);
+    -moz-box-shadow: inset -2px -1px 20px -5px rgba(50, 50, 50, 0.25);
+    box-shadow: inset -2px -1px 20px -5px rgba(50, 50, 50, 0.25);
+}
+#rightOfImage {
+    position: inherit;
+    float: right;
+    height: 170px;
+    width: 630px;
+    padding: 20px 20px 12px 90px;
+    color: #464547;
+    background-color: #EEEEEE;
+    font-family: 'Maven Pro', sans-serif;
+    text-shadow: -1px 0px 9px rgba(150, 150, 150, 0.59);
+    font-size: 2px;
+    text-align: center;
+    font-style: italic;
+    font-weight: 500;
+    margin-top: -159px;
+    margin-right: -396px;
+    line-height: 22px;
+    -webkit-box-shadow: inset -2px -1px 20px -5px rgba(50, 50, 50, 0.25);
+    -moz-box-shadow: inset -2px -1px 20px -5px rgba(50, 50, 50, 0.25);
+    box-shadow: inset -2px -1px 20px -5px rgba(50, 50, 50, 0.25);
+    
+}
+#imgWrap {
+    width: 700px;
+    height: 301px;
+    float: left;
+    margin-left: 60px;
+    margin-top: -29px;
+}
+#headerContainer {
+    position: inherit;
+    width: 100px;
+    height: 15px;
+    float: right;
+    margin-right: 700px;
+    padding-bottom: 24px;
+    color: #464547;
+}
+#gradientFill {
+    position: inherit;
+    height: 301px;
+    width: 14px;
+    float: left;
+    background-image: -webkit-gradient(linear, left bottom, left top, color-stop(0, #8EC960), color-stop(1, #FFFFFF) );
+    background-image: -o-linear-gradient(top, #EEEEEE 0%, #FFFFFF 100%);
+    background-image: -moz-linear-gradient(top, #EEEEEE 0%, #FFFFFF 100%);
+    background-image: -webkit-linear-gradient(top, #EEEEEE 0%, #FFFFFF 100%);
+    background-image: -ms-linear-gradient(top, #EEEEEE 0%, #FFFFFF 100%);
+    background-image: linear-gradient(to top, #EEEEEE 0%, #FFFFFF 100%);
+}
+#sectionHeader {   
+    height: 50px;
+    width: 431px;
+    float: left;
+    margin-left: -760px;
+    position: inherit;
+    margin-top: 350px;
+    background-color: #464547;
+    color: #8ec960;
+}
+#blockDivider {
+    height: 292px;
+    width: 4px;
+    background-color: #ffffff;
+    position: inherit;
+    margin-top: -252px;
+    margin-left: 670px;
+}
+

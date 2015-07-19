@@ -1,0 +1,205 @@
+﻿@import "http://fonts.googleapis.com/css?family=Maven+Pro:400,500,700";
+@import url(http://fonts.googleapis.com/css?family=Armata);
+#wrapper{
+    margin-left: auto;
+    margin-right: auto;
+}
+body {
+    height: auto;
+    width: 0 auto;
+    background-color: #ffffff;
+    text-align: center;
+    font-family: 'Maven Pro', sans-serif;
+    font-weight: 500;
+}
+h5 { color: #ffffff; }
+h4 {
+    color: #464547; 
+    padding-left: 125px;
+    padding-top: 15px;
+    font-weight: 500;
+}
+
+header {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    color: #333333;
+    display: block;
+    height: 100px;
+    width: 100%;
+    background-color: #ffffff;
+  	border-bottom: 1px solid #ffffff;
+    -webkit-box-shadow: 0px 1px 5px 0px rgba(50, 50, 50, 0.83);
+    -moz-box-shadow: 0px 1px 5px 0px rgba(50, 50, 50, 0.83);
+    box-shadow: 0px 1px 5px 0px rgba(50, 50, 50, 0.83);
+}
+
+nav {
+   margin-right: 4.3%; 
+    color: #8ec960;
+    display: block;
+    font-family: 'Maven Pro',sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    position: absolute;
+    right: 350px;
+    text-align: right;
+    top: 50px;
+    right: 355px;
+}
+nav a:hover {
+    color: #464547;
+    text-decoration: none;
+    transition-duration: 0.3s;
+}
+nav a:active { background-color: #eeeeee; }
+#signInBlock {
+    font-family: 'Maven Pro', sans-serif;
+    font-weight: 500;
+    background-color: #8ec960;
+    height: 100px;
+  	position: relative;
+    float: right;
+    top: 0px;
+    color: #ffffff;
+    width: 400px;
+}
+nav ul {
+    line-height: 20px;
+    list-style-type: none;
+}
+a { text-decoration: none; }
+a:link { color: #8ec960; }
+a:visited { color: #8ec960; }
+a:hover {
+    color: #464547;
+    text-decoration: none;
+    transition-duration: 0.3s;
+}
+#subjectBanner {
+    width: 240px;
+    height: 500px;
+    color: #E4F2D8;
+    background-color: #464547;
+    -webkit-box-shadow: -4px 3px 11px 0px rgba(50, 50, 50, 0.4);
+    -moz-box-shadow: -4px 3px 11px 0px rgba(50, 50, 50, 0.4);
+    box-shadow: -4px 3px 11px 0px rgba(50, 50, 50, 0.4);
+    -webkit-box-shadow: 3px 3px 11px 0px rgba(50, 50, 50, 0.4);
+    -moz-box-shadow: 3px 3px 11px 0px rgba(50, 50, 50, 0.4);
+    box-shadow: 3px 3px 11px 0px rgba(50, 50, 50, 0.4);
+}
+#subjectBanner h5 {
+    font-family: 'Maven Pro', sans-serif;
+    text-align: center;
+    color: #eeeeee;
+    padding-top: 25px;
+    letter-spacing: 1px;
+    font-size: 20px;
+    font-weight: 400;
+}
+#subjectBanner p {
+    font-family: 'Maven Pro', sans-serif;
+    padding: 20px 30px 0px 30px;
+    line-height: 25px;
+    text-align: center;
+}
+#circle { 
+   margin: 0px auto 10px auto;
+   padding-right: 35px; 
+   width: 180px;
+   height: 180px;
+   background: #ffffff; 
+   -moz-border-radius: 90px; 
+   -webkit-border-radius: 90px; 
+   border-radius: 90px;
+   align-content: center;
+   position: inherit; 
+   display: inline-block; 
+   margin-top: 35px;
+   -webkit-box-shadow: inset 0px 0px 10px -2px rgba(0,0,0,0.75);
+   -moz-box-shadow: inset 0px 0px 10px -2px rgba(0,0,0,0.75);
+    box-shadow: inset 0px 0px 10px -2px rgba(0,0,0,0.75);
+}
+#circle > img {
+    margin-left: 40px;
+    margin-top: 20px;
+}
+#headerDiv {
+    height: 2px;
+    width: 210px;
+    background-color: #8ec960;
+    margin-left: 125px;
+}
+.row {
+    margin-left: -4%;
+}
+#bottomSectContain {
+    width: auto;
+    height: 250px;
+    color: #464547;
+    line-height: 25px; 
+    margin-top: 100px;
+    line-height: 25px; 
+    padding-left: 50px;
+    text-align: justify;
+    align-content: inherit;
+    margin: 0px auto 10px auto;
+    padding: 10px 890px 0px 75px; 
+}
+#signInBlock_bugfix {
+    height: 100px;
+    width: 131px;
+    position: fixed;
+    float: left;
+    top: 0px;
+    margin-left: 1231px;
+    background-color: #8ec960;
+    -webkit-box-shadow: -5px 1px 5px 0px rgba(50, 50, 50, 0.83);
+    -moz-box-shadow: 8px 1px 5px 0px rgba(50, 50, 50, 0.83);
+    box-shadow: 8px 1px 5px 0px rgba(50, 50, 50, 0.83);
+}
+#captionContain {
+    font-family: 'Maven Pro'; 
+    color: #464547; 
+    margin-left: 5%;
+    margin-top: 2%; 
+    z-index: inherit;
+}
+#captionContain h4 {
+    margin-left: -35%;
+}
+#headerUnderline {
+    height: 2px;
+    width: 150px;
+    margin-top: -5px;
+    margin-left: 15%;
+    background-color: #8EC960;
+}
+#headerImg {
+    position: relative;
+    top: 9%;
+    left: 3%;
+}
+footer {
+    height: 250px;
+    width: 100%;
+    padding-top: 20px;
+    border-top: solid 2px #8ec960;
+    background-color: #eeeeee;
+    color: #8ec960;
+    font-family: 'Maven Pro', sans-serif;
+    background-image: -webkit-gradient(
+	    linear,
+	    left top,
+	    left bottom,
+	    color-stop(0, #E0E0E0),
+	    color-stop(0.48, #FFFFFF),
+	    color-stop(1, #FFFFFF)
+    );
+    background-image: -o-linear-gradient(bottom, #E0E0E0 0%, #FFFFF 48%, #FFFFFF 100%);
+    background-image: -moz-linear-gradient(bottom, #E0E0E0 0%, #FFFFFF 48%, #FFFFFF 100%);
+    background-image: -webkit-linear-gradient(bottom, #E0E0E0 0%, #FFFFFF, 48%, #FFFFFF 100%);
+    background-image: -ms-linear-gradient(bottom, #E0E0E0 0%, #FFFFFF 48%, #FFFFFF 100%);
+    background-image: linear-gradient(to bottom, #E0E0E0 0%, #FFFFFF 48%, #FFFFFF 100%);
+}
